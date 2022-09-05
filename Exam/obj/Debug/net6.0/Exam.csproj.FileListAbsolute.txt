@@ -1,0 +1,15 @@
+D:\Программирование\Git_Education\CSharpExam\Exam\bin\Debug\net6.0\Exam.exe
+D:\Программирование\Git_Education\CSharpExam\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\Программирование\Git_Education\CSharpExam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\Программирование\Git_Education\CSharpExam\Exam\bin\Debug\net6.0\Exam.dll
+D:\Программирование\Git_Education\CSharpExam\Exam\bin\Debug\net6.0\Exam.pdb
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.dll
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.pdb
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\Программирование\Git_Education\CSharpExam\Exam\obj\Debug\net6.0\ref\Exam.dll
