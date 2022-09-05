@@ -23,3 +23,6 @@ string[] Array3Symb(string[] array1)
 }
 string[] Test=new string[5] {"AAAAAAA","Bb","Ccc","D","E"};
 PrintArray(Test);
+Console.WriteLine("");
+string[] Test2=Array3Symb(Test);
+PrintArray(Test2);
