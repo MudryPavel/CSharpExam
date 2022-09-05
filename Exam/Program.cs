@@ -19,6 +19,7 @@ string[] Array3Symb(string[] array1)
             Count++;
         }
     }
+    Array.Resize<string>(ref array2,Count);
     return array2;
 }
 string[] Test=new string[5] {"AAAAAAA","Bb","Ccc","D","E"};
